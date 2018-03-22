@@ -35,10 +35,9 @@ OBJETIVOS
 
 ![IMG](http://i68.tinypic.com/50367p.jpg)
 
-![IMG](http://i66.tinypic.com/2q15cec.jpg)
-
 Basados en la información entregada por Isabel Ordoñez y en el Manuel de Marca actualizado de Laboratoria, procedemos a definir el alcance de nuestro proyecto de Styleguide.
 
+![IMG](http://i66.tinypic.com/2q15cec.jpg)
 
 TOMA DE DATOS Y EXPERIENCIAS SIMILARES
 ---------------------------------------
@@ -58,4 +57,6 @@ HALLAZGOS 2
 
 PRODUCTO
 --------
+
+Una Style GUide de componentes de React, que permite utilizar 
 
