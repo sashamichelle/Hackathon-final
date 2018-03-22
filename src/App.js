@@ -1,8 +1,16 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
 import BitterTitle from './components/Typo/BitterTitle';
 import OpenSans from './components/Typo/OpenSans';
+import Card from './components/Cards/Cards';
+import logo from './logo.svg';
+import './App.css';
+
+Card.defaultProps = {
+  title: 'Titulo de la tarjeta',
+  content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio accusamus natus necessitatibus dolorem at rerum soluta placeat nostrum!',
+  link: 'Leer más',
+  href: '#'
+};
 
 class App extends Component {
   render() {
@@ -15,6 +23,7 @@ class App extends Component {
         <BitterTitle type='bold-mint'>Holo</BitterTitle>
         <OpenSans type='bold'>Holo</OpenSans>
         <OpenSans type='regular'>Holo</OpenSans>
+        <Card />
       </div>
     );
   }
