@@ -9,10 +9,26 @@ Paso 1:  Definir grupalmente el problema que implica el reto, identificar usuari
 
 ![IMG](http://i68.tinypic.com/2qxnoyx.jpg)
 
+USUARIO
+-------
 
-Hablar con el funcionario de Laboratoria encargado de manejar las comunicaciones
+Reunión con Isabel Ordoñez (Communications Manager City) de Laboratoria.  Quien maneja directamente lo relacionado con el uso del Manual de Marca de Laboratoria. 
 
 ![IMG](http://i65.tinypic.com/2gtovpi.jpg)
+
+OBJETIVOS
+---------
+Crear un styleguide de componentes para Laboratoria, utilizando el nuevo branding. Proponemos nuevos elementos y mejoras a los elementos existentes.
+
+Basados en la información entregada por Isabel Ordoñez y en el Manuel de Marca actualizado de Laboratoria, procedemos a definir el alcance de nuestro proyecto de Styleguide.
+
+
+
+
+PRODUCTO
+--------
+
+
 
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
