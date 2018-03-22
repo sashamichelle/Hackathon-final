@@ -58,5 +58,5 @@ HALLAZGOS 2
 PRODUCTO
 --------
 
-Una Style GUide de componentes de React, que permite utilizar 
+Una Style GUide de componentes de React, que permite utilizar y re-utilizar elementos con un diseño visual predefinido, que potenciará los nuevos elementos creados del branding.
 
