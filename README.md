@@ -2,6 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## GUIA DE ESTILOS DE LABORATORIA (SITIO WEB)
 
+RETO: Crear un styleguide de Laboratoria con componentes en React.
+------------------------------------------------------------------
+
+Paso 1:  Definir grupalmente el problema que implica el reto, identificar usuario, objetivos y producto.
+
+![IMG](http://i68.tinypic.com/2qxnoyx.jpg)
+
+
+Hablar con el funcionario de Laboratoria encargado de manejar las comunicaciones
 
 ![IMG](http://i65.tinypic.com/2gtovpi.jpg)
 
