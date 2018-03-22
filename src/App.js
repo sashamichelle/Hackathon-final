@@ -5,6 +5,8 @@ import Card from './components/Cards/Cards';
 import Loader from './components/Loader/Loader'
 import logo from './logo.svg';
 import './App.css';
+import Isotype from './components/Isotypes/Isotypes';
+import Logo from './components/Logos/Logo';
 
 Card.defaultProps = {
   title: 'Titulo de la tarjeta',
@@ -26,6 +28,16 @@ class App extends Component {
         <OpenSans type='regular'>Holo</OpenSans>
         <Loader />
         <Card />
+        <Isotype type='black' />
+        <Isotype type='black-yellow' />
+        <Isotype type='white' />
+        <Isotype type='white-yellow' />
+        <Logo />
+        <Logo type="talent" />
+        <Logo type="black" />
+        <Logo type="black-yellow" />
+        <Logo type="white" />
+        <Logo type="white-yellow" />
       </div>
     );
   }
