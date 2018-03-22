@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## GUIA DE ESTILOS DE LABORATORIA (SITIO WEB)
 
+
+![IMG](http://i65.tinypic.com/2gtovpi.jpg)
+
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
