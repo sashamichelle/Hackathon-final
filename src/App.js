@@ -6,6 +6,7 @@ import Loader from './components/Loader/Loader'
 import Isotype from './components/Isotypes/Isotypes';
 import Logo from './components/Logos/Logo';
 import Bracket from './components/Icons/Icons'
+import {ButtonYellow, ButtonGreen, ButtonRose, ButtonYellowM} from './components/Buttons/Buttons';
 import logo from './logo.svg';
 import './App.css';
 
@@ -15,6 +16,18 @@ Card.defaultProps = {
   content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio accusamus natus necessitatibus dolorem at rerum soluta placeat nostrum!',
   link: 'Leer más',
   href: '#'
+};
+ButtonYellow.defaultProps =  { 
+  name: 'texto del boton'
+};
+ButtonYellowM.defaultProps =  { 
+  name: 'texto del boton'
+};
+ButtonRose.defaultProps =  { 
+  name: 'texto del boton'
+};
+ButtonGreen.defaultProps =  { 
+  name: 'texto del boton'
 };
 
 class App extends Component {
@@ -49,6 +62,10 @@ class App extends Component {
         <Bracket type='b_green_one' />
         <Bracket type='b_green_two' />
         <Bracket type='b_green_three' />
+        <ButtonYellowM />
+        <ButtonGreen />
+        <ButtonRose />
+        <ButtonYellow/>
       </div>
     );
   }

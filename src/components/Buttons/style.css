@@ -1,0 +1,46 @@
+.button {
+    width: 276px;
+    height: 47px;
+    z-index: 71;
+    line-height: 19px;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Open Sans;
+    border-radius: 2px;
+    background-color: #ffe521;
+    color: #000000;
+    border-style: none;
+}
+.buttonGreen {
+    width: 276px;
+    height: 47px;
+    z-index: 26;
+    line-height: 19px;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Open Sans;
+    border-radius: 2px;
+    background-color: #56F89A;
+    border-style: none;
+}
+.buttonRose {
+    width: 276px;
+    height: 47px;
+    z-index: 27;
+    line-height: 19px;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Open Sans;
+    border-radius: 2px;
+    background-color: #FF009E;
+    border-style: none;
+}
+.buttonM {
+    padding: 12px 22px;
+    color: #2b2b2b;
+    background-color: #ffe521;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 2px;
+    border-style: none;
+}
