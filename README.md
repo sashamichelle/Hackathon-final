@@ -5,9 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 RETO: Crear un styleguide de Laboratoria con componentes en React.
 ------------------------------------------------------------------
 
-Paso 1:  Definir grupalmente el problema que implica el reto, identificar usuario, objetivos y producto.
+Paso 1 (Equipo Multidisciplinario):  
+Definir grupalmente el problema que implica el reto, identificar usuario, objetivos y producto.
 
 ![IMG](http://i68.tinypic.com/2qxnoyx.jpg)
+
+TRABAJO EQUIPO UX
+-----
+
 
 USUARIO
 -------
@@ -36,7 +41,13 @@ OBJETIVOS
 
 ![IMG](http://i68.tinypic.com/50367p.jpg)
 
-Basados en la información entregada por Isabel Ordoñez y en el Manuel de Marca actualizado de Laboratoria, procedemos a definir el alcance de nuestro proyecto de Styleguide.
+
+*WIREFRAMES*
+
+![IMG](http://i68.tinypic.com/300tifa.jpg)
+
+
+Basados en la información entregada por Isabel Ordoñez y en el Manual de Marca actualizado de Laboratoria, procedemos a definir el alcance de nuestro proyecto de Styleguide.
 
 ![IMG](http://i66.tinypic.com/2q15cec.jpg)
 
@@ -45,7 +56,7 @@ TOMA DE DATOS Y EXPERIENCIAS SIMILARES
 
 1.  Entrevistas a usuarios de guías de estilo (programadores y diseñadores -4 en total- ), como testimonio para conocer sus dolores y alivios usando las guías.
 
-HALLAZGOS 2
+HALLAZGOS 
 -----------
 1.  Una guía de estilo ideal debe ser:  una **guía visual** Ordenada por categorías, ojalá de tipo drag and drop, completa ("no tener que buscar estilos en otro lugar, casarse con ella").
 
@@ -78,12 +89,12 @@ EN ESTE TRABAJO SE UTILIZARON LAS SIGUIENTES HERRAMIENTAS:
 Autores
 -------
 
-Carla Zumarán (Front-End)
-Diana Chaparro (UX Designer)
-Kesly Martínez (Front-End)
-Nadia Morales (Front-End)
-Sasha Avilés (UX Designer)
-de Laboratoria
+-  Carla Zumarán (Front-End)
+-  Diana Chaparro (UX Designer)
+- Kesly Martínez (Front-End)
+-  Nadia Morales (Front-End)
+-  Sasha Avilés (UX Designer)
+Equipo multidisciplinario de Laboratoria
 
 
 
