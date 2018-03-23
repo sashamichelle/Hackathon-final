@@ -60,3 +60,22 @@ PRODUCTO
 
 Una Styleguide de componentes de React que permite utilizar y re-utilizar elementos con un diseño visual pre-definido.  Lo que se busca con el producto, es ahorrar tiempo al desarrollador o diseñador, que sólo deberá tomar el elemento que requiere y ocuparlo.  Así de fácil!.  Nuestro producto busca potenciar los nuevos elementos visuales de Laboratoria establecidos en el Branding Corporativo.
 
+EN ESTE TRABAJO UTILIZARON LAS SIGUIENTES HERRAMIENTAS:
+-------------------
+
+- Marvel App (Prototipado)
+- Material UI
+- Material ui, flexboxgris
+
+
+Autores
+-------
+
+Carla Zumarán (Front-End)
+Diana Chaparro (UX Designer)
+Kesly Martínez (Front-End)
+Nadia Morales (Front-End)
+Sasha Avilés (UX Designer)
+
+
+
