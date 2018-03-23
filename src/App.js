@@ -3,10 +3,12 @@ import BitterTitle from './components/Typo/BitterTitle';
 import OpenSans from './components/Typo/OpenSans';
 import Card from './components/Cards/Cards';
 import Loader from './components/Loader/Loader'
-import logo from './logo.svg';
-import './App.css';
 import Isotype from './components/Isotypes/Isotypes';
 import Logo from './components/Logos/Logo';
+import Bracket from './components/Icons/Icons'
+import logo from './logo.svg';
+import './App.css';
+
 
 Card.defaultProps = {
   title: 'Titulo de la tarjeta',
@@ -38,6 +40,15 @@ class App extends Component {
         <Logo type="black-yellow" />
         <Logo type="white" />
         <Logo type="white-yellow" />
+        <Bracket type='b_yellow_one' />
+        <Bracket type='b_yellow_two' />
+        <Bracket type='b_yellow_three' />
+        <Bracket type='b_pink_one' />
+        <Bracket type='b_pink_two' />
+        <Bracket type='b_pink_three' />
+        <Bracket type='b_green_one' />
+        <Bracket type='b_green_two' />
+        <Bracket type='b_green_three' />
       </div>
     );
   }
