@@ -18,7 +18,7 @@ Isabel nos indica que en Laboratoria, el Manual de Marca lo usa el desarrollador
 
 ![IMG](http://i65.tinypic.com/2gtovpi.jpg)
 
-HALLAZGOS 1
+HALLAZGOS 
 ---------
 
 -  Una guía de estilo viva, amigable y práctica, será vital para facilitar el flujo de trabajo de quienes desarrollan el sitio, se dedicarán sólo a eso y no a diseñar. (Ahorro de tiempo importante).
@@ -26,6 +26,7 @@ HALLAZGOS 1
 
 OBJETIVOS
 ---------
+
 -  Crear un styleguide de componentes de diseño visual para Laboratoria(con el nuevo branding). Proponemos nuevos elementos y mejoras a los elementos existentes.
 
 -  Nuestro producto será un documento tipo biblioteca de plantillas, algo ágil e intuitivo. Será una colección bien definida de elementos visuales, está ser vital para ahorrar tiempo en el trabajo del usuario, evitando contratiempos técnicos o de diseño.
@@ -71,7 +72,7 @@ EN ESTE TRABAJO SE UTILIZARON LAS SIGUIENTES HERRAMIENTAS:
 
 - Marvel App (Prototipado)
 - Material UI
-- Material ui, flexboxgris
+- Flexboxgrid
 
 
 Autores
