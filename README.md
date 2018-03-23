@@ -86,7 +86,7 @@ EN ESTE TRABAJO SE UTILIZARON LAS SIGUIENTES HERRAMIENTAS:
 
 - Marvel App (Prototipado)
 - Material UI
-- Flexboxgrid
+- Flexbox grid
 
 
 Autores
